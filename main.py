@@ -172,9 +172,6 @@ plt.title('Random Forest - Complexity Curve (Training vs Validation Loss)')
 plt.legend()
 plt.show()
 
-
-# Model Comparison Summary
-
 print("\n" + "="*50)
 print("Model Comparison Summary")
 print("="*50)
