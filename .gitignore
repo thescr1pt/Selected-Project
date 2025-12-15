@@ -1,5 +1,5 @@
 dataset/
 reference/
 .venv/
+.vscode/
 *.txt
-*.png
