@@ -1,4 +1,3 @@
-# Ignore dataset directories and .txt files
 dataset/
 reference/
 .venv/
