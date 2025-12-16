@@ -3,3 +3,4 @@ reference/
 .venv/
 .vscode/
 *.txt
+*.md

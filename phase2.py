@@ -127,6 +127,7 @@ plt.plot(history.history['val_loss'], label='Validation Loss')
 plt.xlabel('Epochs')
 plt.ylabel('Loss')
 plt.legend()
+plt.savefig('graphs/LSTM_Loss.png')
 plt.show()
 
 
